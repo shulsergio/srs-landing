@@ -1,5 +1,22 @@
 {
   "Landing": {
-    "title": "SRS Car Diagnostics"
+    "title": "SRS Diagnostics & Repair",
+    "ServiceTitle": "OUR SERVICES",
+    "HowWorkTitle": "OUR WORKFLOW",
+    "Advantages": "OUR ADVANTAGES"
+  },
+  "SERVICES": {
+    "titleOne": "SRS Airbag Crash Data Reset",
+    "descOne": "Clearing airbag deployment data from the SRS module memory after an accident. Full restoration without replacing the unit.",
+    "tagsOne": "Crash Data, SRS, Airbag",
+    "titleTwo": "Advanced Car Diagnostics",
+    "descTwo": "Comprehensive computer diagnostics of all electronic systems. Error code reading, decoding, and live sensor data analysis.",
+    "tagsTwo": "OBD-II, CAN-bus, ECU diagnostics",
+    "titleThree": "Dashboard & Instrument Cluster Repair",
+    "descThree": "Module reprogramming and configuration recovery without unit replacement.",
+    "tagsThree": "Reprogramming, Restoration, Odometer",
+    "titleFour": "SAS Module Repair & Calibration",
+    "descFour": "SAS module flashing and factory reset for hard codes that cannot be cleared by standard OBD scanners.",
+    "tagsFour": "SAS, Steering Angle Sensor, Repair"
   }
 }
