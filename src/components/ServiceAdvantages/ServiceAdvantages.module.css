@@ -1,0 +1,43 @@
+.servicesGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  align-items: center;
+}
+.serviceCard {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 12px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  padding: 12px;
+  transition:
+    border-color 0.25s,
+    box-shadow 0.25s;
+}
+.serviceCard:hover {
+  border-color: rgba(30, 111, 255, 0.5);
+  box-shadow: 0 0 28px rgba(30, 111, 255, 0.12);
+}
+.titleKey {
+  font-family: var(--font-mono);
+  font-size: 20px;
+  color: var(--fg-muted);
+}
+.serviceTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: auto;
+}
+.tagsKey {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--fg-muted);
+}

@@ -18,5 +18,18 @@
     "titleFour": "SAS Module Repair & Calibration",
     "descFour": "SAS module flashing and factory reset for hard codes that cannot be cleared by standard OBD scanners.",
     "tagsFour": "SAS, Steering Angle Sensor, Repair"
+  },
+  "Advantages": {
+    "titleOne": "Fast Turnaround",
+    "descOne": "Most repairs are completed on the same day. For clients from other cities, we ship the components back the very same day.",
+
+    "titleTwo": "Proven Track Record",
+    "descTwo": "Over 3,000 successfully restored SRS modules and reprogrammed SAS systems.",
+
+    "titleThree": "365/24/7",
+    "descThree": "We are open daily from 10:00 AM to 10:00 PM, including weekends and holidays.",
+
+    "titleFour": "15+ Years of Experience",
+    "descFour": "Expert service for all makes and models, specializing in both instrument clusters and SRS modules."
   }
 }

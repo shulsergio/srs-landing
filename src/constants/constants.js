@@ -17,8 +17,23 @@ export const SERVICES = [
     icon: <Wrench size={28} />,
     id: "Four",
   },
-  // {
-  //   icon: <Wrench size={28} />,
-  //   id: "Five",
-  // },
+];
+
+export const Advantages = [
+  {
+    icon: <Cpu size={28} />,
+    id: "One",
+  },
+  {
+    icon: <Shield size={28} />,
+    id: "Two",
+  },
+  {
+    icon: <AlertTriangle size={28} />,
+    id: "Three",
+  },
+  {
+    icon: <Wrench size={28} />,
+    id: "Four",
+  },
 ];
