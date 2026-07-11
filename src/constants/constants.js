@@ -19,6 +19,21 @@ export const SERVICES = [
   },
 ];
 
+export const STEPS = [
+  {
+    id: "One",
+  },
+  {
+    id: "Two",
+  },
+  {
+    id: "Three",
+  },
+  {
+    id: "Four",
+  },
+];
+
 export const Advantages = [
   {
     icon: <Cpu size={28} />,

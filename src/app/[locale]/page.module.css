@@ -84,21 +84,21 @@ a.secondary {
 .sectionAdvantages {
   width: 100%;
   background: rgba(13, 32, 64, 0.3);
-  padding: 0;
+  padding: 24px 0;
 }
 .sectionHowWork {
   width: 100%;
-  padding: 0;
+  padding: 24px 0;
 }
 
 .sectionTitle {
   font-family: var(--font-display);
-  font-size: clamp(2rem, 5vw, 3.25rem);
+  font-size: 32px;
   font-weight: 800;
   text-transform: uppercase;
   color: var(--fg);
   line-height: 1.05;
-  padding: 24px 0;
+  padding: 0 0 24px 0;
 }
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {

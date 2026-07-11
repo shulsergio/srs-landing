@@ -19,6 +19,25 @@
     "descFour": "SAS module flashing and factory reset for hard codes that cannot be cleared by standard OBD scanners.",
     "tagsFour": "SAS, Steering Angle Sensor, Repair"
   },
+
+  "STEPS": {
+    "numOne": "01",
+    "titleOne": "Receive the Module or Vehicle",
+    "descOne": "Bring your car to our workshop or ship the SRS module directly to us via postal service.",
+
+    "numTwo": "02",
+    "titleTwo": "Diagnostics & Analysis",
+    "descTwo": "We read all data from the module, identify error types, and evaluate the extent of the crash data to provide an accurate estimate.",
+
+    "numThree": "03",
+    "titleThree": "Data Restoration",
+    "descThree": "We work at the software level — clearing crash data, wiping hard codes, and restoring the original firmware.",
+
+    "numFour": "04",
+    "titleFour": "Testing & Handover",
+    "descFour": "Following restoration, we perform a final inspection. The module is returned fully operational, with absolutely zero errors."
+  },
+
   "Advantages": {
     "titleOne": "Fast Turnaround",
     "descOne": "Most repairs are completed on the same day. For clients from other cities, we ship the components back the very same day.",
